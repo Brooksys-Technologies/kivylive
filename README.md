@@ -30,6 +30,10 @@ That's it, now you can launch the program from your Application list.
 
 TODO
 ----
+* Support for KV templating
+* fix crash bug when rendering with pos_hint set as : pos_hint: 'center':1
+*  Add support for editing multiple files under a tabbed layout
+*  Add Drag and Drop functionality to order and re-order tabs
 * Support Python files
 * Allow Duplicate Files in different locations
 * Add a visual builder
